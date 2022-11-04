@@ -4,9 +4,8 @@ AIM: To gain and gather insights on student engagement and identifying key impro
 Tool: MySQL
 
 Description: 365_database database contains 11 tables
-
     Table	and Number of Records:
-    <hr>
+    
       365_student_info	35,230
       365_student_purchases	3,041
       365_student_learning	64,535
