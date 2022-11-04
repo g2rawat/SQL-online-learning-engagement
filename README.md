@@ -3,7 +3,7 @@ AIM: To gain and gather insights on student engagement and identifying key impro
 
 Tool: MySQL
 
-Created by :- Jitenedr Rawat
+Created by: Jitenedr Rawat
 
 
 Description: 365_database database contains 11 tables
